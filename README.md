@@ -1,2 +1,2 @@
-# corsoemvideo-desafio-html-css
+# cursoemvideo-desafio-html-css
 Desafios  do curso em video HTML e CSS
